@@ -34,9 +34,11 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="ID",,TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.1.1.1" group-title="ID",,CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1523995604_b384000_sleng.m3u8
+#EXTINF:-1 group-title="ID",TVRI
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 group-title="ID",TVRI World
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/langid-800px-MTV_Live_2021_logo.svg.png" group-title="Entertainment",MTV Live
 http://103.167.167.5:8111/play/a00q/index.m3u8
