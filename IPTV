@@ -53,3 +53,6 @@ https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
 https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
 #EXTINF:-1 group-title="US", FOX
 https://v-ny.MyBTv.net/live/550/1280x720.m3u8
+#EXTINF:-1 group-title="US", CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
