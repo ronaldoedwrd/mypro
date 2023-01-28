@@ -38,11 +38,11 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384
 #EXTINF:-1 group-title="ID",TVRI World
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/003/399/771/small/youtube-icon-editorial-free-vector.jpg" group-title="Entertainment",MTV Live (192.168.240.22)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/langid-800px-MTV_Live_2021_logo.svg.png" group-title="Entertainment",MTV Live
 http://103.167.167.5:8111/play/a00q/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/003/399/771/small/youtube-icon-editorial-free-vector.jpg" group-title="Entertainment",MTV '90 (192.168.240.38)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Entertainment",MTV '90
 http://103.167.167.5:8111/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/003/399/771/small/youtube-icon-editorial-free-vector.jpg" group-title="Entertainment",MTV Hits
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="Entertainment",MTV Hits
 http://iptv.prosto.tv:7000/ch126/video.m3u8
 
 #EXTINF:-1 group-title="US", ABC
