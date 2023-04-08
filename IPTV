@@ -1,44 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="MY",Astro Arena
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157485
-#EXTINF:-1 tvg-id="" tvg-name="Astro Awani" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="MY",Astro Awani
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157478
-#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="MY",Astro Cricket
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157565
-#EXTINF:-1 tvg-id="" tvg-name="Astro Oasis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="MY",Astro Oasis
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157489
-#EXTINF:-1 tvg-id="" tvg-name="Astro Ria" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="MY",Astro Ria
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/158347
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="MY",Astro SuperSport 1
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/146068
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="MY",Astro SuperSport 2
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157556
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="MY",Astro SuperSport 3
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157557
-#EXTINF:-1 tvg-id="" tvg-name="Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="MY",Astro SuperSport 4
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/157558
-#EXTINF:-1 tvg-id="" tvg-name="NTV 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png" group-title="MY",NTV 7
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/174695
-#EXTINF:-1 tvg-id="" tvg-name="RTM TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/709e30cbe3d7b9710f54e41156389475.jpg" group-title="MY",RTM TV 1
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/158357
-#EXTINF:-1 tvg-id="" tvg-name="RTM TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="MY",RTM TV 2
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/158355
-#EXTINF:-1 tvg-id="" tvg-name="TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="MY",TV 3
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/158360
-#EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" group-title="MY",TV 9
-http://37.49.230.48:8080/faucontv/RETORVY0fvyp5RPX/171953
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/512px-RCTI_2015.svg.png" group-title="ID",,RCTI
-http://103.167.167.5:8111/play/a01c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/jjuKnYs.png" group-title="ID",,GTV
-http://103.167.167.5:8111/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://i.imgur.com/SK8pjQy.png" group-title="ID",,MNC TV
-http://103.167.167.5:8111/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="ID",,INDOSIAR
-http://103.167.167.5:8111/play/a00r/index.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="ID",,TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/dPFnbkz/trans7-home-tv.png" group-title="ID",,TRANS 7
@@ -53,31 +14,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="ID",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/NET_TV_live_streaming_tv.jpg" group-title="ID",Net.
-http://rr2.dens.tv/s/s08/01.m3u8
 
 
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/langid-800px-MTV_Live_2021_logo.svg.png" group-title="Entertainment",MTV Live
-http://103.167.167.5:8111/play/a00q/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/1200px-MTV_90s_2022.svg.png" group-title="Entertainment",MTV '90
-http://103.167.167.5:8111/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="Entertainment",MTV Hits
 http://iptv.prosto.tv:7000/ch126/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="Entertainment",TVN
-http://rr1.dens.tv/h/h20/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_109.png" group-title="Entertainment",TVN Movies
-http://rr1.dens.tv/h/h21/01.m3u8
 
-
-#EXTINF:-1 group-title="US", ABC
-https://v-ny.MyBTv.net/live/554/1280x720.m3u8
-#EXTINF:-1 group-title="US", NBC
-https://v-ny.MyBTv.net/live/548/1920x1080.m3u8
-#EXTINF:-1 group-title="US", CBS
-https://v-ny.MyBTv.net/live/545/1920x1080.m3u8
-#EXTINF:-1 group-title="US", FOX
-https://v-ny.MyBTv.net/live/550/1280x720.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="News", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -91,4 +32,3 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="News",,CNN Indonesia
 https://nxanv-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
-
