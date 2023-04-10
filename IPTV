@@ -20,6 +20,10 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1920px-CBS_logo_%282020%29.svg.png" group-title="US",CBS
 https://epg.pw/stream/c430e52d4a5f355e0cc9d5507eb9c54d3b6a6605d279fbe6380cfaf06efd6539.ctv
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1024px-BBC_One_logo_2021.svg.png" group-title="UK",BBC ONE
+https://techlinks.club:2096/neon.fortytwo@gmail.com/BVUdH2DqQkZU/308
+
+
 #EXTINF:-1 tvg-logo="https://imgs1.e-droid2.net/srv/imgs/seccs/19886544_ico.png" group-title="SPORT",TVRI SPORT
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f216%2fbein-sports-french-1.png" group-title="SPORT",BEIN SPORT 1
@@ -32,9 +36,6 @@ https://epg.pw/stream/82f3b66df1d4307289be54cae33ac699c971d888430cf5a80dc47d563b
 https://epg.pw/stream/51f524348f551c450aafc0449f9df2fa593941f5d5841507553cb8f82ad30c17.ctv
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png" group-title="SPORT",ESPN
 https://epg.pw/stream/7416cf37010341bc6bf6e611d580174314d591d63b1f2cd6882f91c694051c0c.ctv
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="Entertainment",MTV Hits
 http://iptv.prosto.tv:7000/ch126/video.m3u8
