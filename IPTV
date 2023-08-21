@@ -67,5 +67,5 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 tvg-id="TV3.my",TV3 (720p) [Geo-blocked]
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton1.m3u8
+#EXTINF:-1 tvg-id="Channel5.sg",Channel 5 [Geo-blocked]
+https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
