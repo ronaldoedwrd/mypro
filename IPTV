@@ -48,7 +48,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="International News", CNA
-
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="International News",BBC World News
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTjdb1z6/global-news.png" group-title="International News",GLOBAL NEWS
@@ -67,5 +67,5 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 tvg-id="Channel5.sg",Channel 5 [Geo-blocked]
-https://ddftztnzt6o79.cloudfront.net/hls/clr4ctv_okto/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="International News",mewatch
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
