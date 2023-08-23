@@ -46,6 +46,11 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="Entertainment",MTV Hits
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="Entertainment",tvN
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaS0w0ZqhZyQypdlTjGavrEK7HySewapzGQYsiECnQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",tvN Movies
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/CNA_new_logo.svg" group-title="International News", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -54,7 +59,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTjdb1z6/global-news.png" group-title="International News",GLOBAL NEWS
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTjdb1z6/global-news.png" group-title="International News",CNN
-
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" group-title="MY",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
