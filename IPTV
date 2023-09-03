@@ -40,17 +40,23 @@ http://210.210.155.37/dr9445/h/h20/index.m3u8
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png" group-title="Entertainment",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment",Rock Entertaintment
+http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaQ-Gn7XpU0ltV1w94BF3lNIb6J80lq6f4BG-CVAVw=s900-c-k-c0x00ffffff-no-rj" group-title="International News", CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="International News",BBC World News
-https://vs-cmaf-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/pc_hd_abr_v2.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pTjdb1z6/global-news.png" group-title="International News",GLOBAL NEWS
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="International News",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png" group-title="US",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 
 
 
@@ -68,10 +74,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/NTV7_logo_%282018%29.svg/800px-NTV7_logo_%282018%29.svg.png" group-title="MY",NTV 7
 https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/97545756-1f23-4fa5-bdc4-ce796dde1fb4/3.m3u8
-
-
-
-#EXTINF:-1 tvg-id="", tvg-logo="https://ichef.bbci.co.uk/images/ic/480x270/p0bvs64x.jpg" group-title="UK", BBC One
 
 
 
