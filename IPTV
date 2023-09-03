@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="ID",,TRANS TV
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="ID",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="ID",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.1.1.1" group-title="ID",,CNN Indonesia
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.1.1.1" group-title="ID",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="ID",,CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="ID",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="ID",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
