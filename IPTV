@@ -14,6 +14,8 @@ https://cdn14jtedge.indihometv.com/joss/133/sctv/chunklist_w1537314585_b444100_s
 https://streaming.indihometv.com/joss/133/metrotv1080/playlist.m3u8?enc=Mu5fdrPyRnFhFcaEChc0PQ&exp=1698877626&encp=1VWYf1VMHx3NntCHuvp7VQ&expp=1698886326
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="ID",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" group-title="ID",TV One
+https://streaming.indihometv.com/joss/134/tvone720/playlist.m3u8?enc=zuNJ7E3Tf1dDA30N3hPPDw&exp=1698878116&encp=pCZJ3bdzaKuq8VmiNPGDhg&expp=1698886816
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/800px-Indosiar_2015.svg.png" group-title="ID",Indosiar
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1920px-NET._sky_blue.svg.png" group-title="ID",NET TV
@@ -55,6 +57,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="International News",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="International News",DW English
+https://streaming.indihometv.com/joss/133/dwtv/playlist.m3u8?enc=W3tIFMWnK89Jt58timgPPw&exp=1698878376&encp=GCq9JqQtyQuvu8CuIeCnTA&expp=1698887076
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png" group-title="US",BBC America
@@ -80,6 +84,6 @@ https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="Religious",Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+https://cdn13jtedge.indihometv.com/joss/130/alquran/chunklist_w1654442010_b494100_sleng.m3u8?enc=_1xOosfkwzLiWkRLoerDtg&uid=&exp=1698886646
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religious",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
