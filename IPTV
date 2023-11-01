@@ -11,7 +11,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="ID",SCTV
 https://cdn14jtedge.indihometv.com/joss/133/sctv/chunklist_w1537314585_b444100_sleng.m3u8?enc=BrdX-u_vZMV53mE_A_DVrw&uid=&exp=1698886218
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="ID",METRO TV
-https://streaming.indihometv.com/joss/133/metrotv1080/playlist.m3u8?enc=Mu5fdrPyRnFhFcaEChc0PQ&exp=1698877626&encp=1VWYf1VMHx3NntCHuvp7VQ&expp=1698886326
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="ID",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" group-title="ID",TV One
@@ -58,9 +58,7 @@ https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="International News",CNN International
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="International News",DW English
-https://streaming.indihometv.com/joss/133/dwtv/playlist.m3u8?enc=W3tIFMWnK89Jt58timgPPw&exp=1698878376&encp=GCq9JqQtyQuvu8CuIeCnTA&expp=1698887076
-
-
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/BBC_America_logo_2021.svg/1200px-BBC_America_logo_2021.svg.png" group-title="US",BBC America
 
 
