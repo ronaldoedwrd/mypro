@@ -9,17 +9,17 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="ID",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="ID",SCTV
-https://cdn14jtedge.indihometv.com/joss/133/sctv/chunklist_w1537314585_b444100_sleng.m3u8?enc=BrdX-u_vZMV53mE_A_DVrw&uid=&exp=1698886218
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/800px-Indosiar_2015.svg.png" group-title="ID",Indosiar
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="ID",METRO TV
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="ID",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" group-title="ID",TV One
-https://streaming.indihometv.com/joss/134/tvone720/playlist.m3u8?enc=zuNJ7E3Tf1dDA30N3hPPDw&exp=1698878116&encp=pCZJ3bdzaKuq8VmiNPGDhg&expp=1698886816
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/800px-Indosiar_2015.svg.png" group-title="ID",Indosiar
-http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1920px-NET._sky_blue.svg.png" group-title="ID",NET TV
-https://streaming.indihometv.com/joss/133/bumperslate/playlist.m3u8?enc=nhHP2OJ657xBfxBkcg_AOw&exp=1698877719&encp=xsrYllFfX9f-v3w2ABrCHw&expp=1698886419
+
 #EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="ID",SEA Today
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 TVG-LOGO="https://d22gwcrfo2de51.cloudfront.net/wp-content/uploads/2020/08/TVRI-logo-baru-1400x788.png" group-title="ID",TVRI
@@ -36,8 +36,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WsQRCmZ.png" group-title="Entertainment",MTV Pluto TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9g7hujw.png" group-title="Entertainment",Pluto TV Yo! MTV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="Entertainment",tvN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaS0w0ZqhZyQypdlTjGavrEK7HySewapzGQYsiECnQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",tvN Movies
@@ -67,7 +65,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" group-title="MY",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png" group-title="MY",Berita RTM
-https://ythls.onrender.com/channel/UCjUxj4cyy_F0tVCT8WfmdZQ.m3u8
+
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MY", TV1 
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
@@ -75,13 +73,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1920px-TV3_%28Malaysia%29.svg.png" group-title="MY",TV3
-https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/live.isml/.m3u8
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/NTV7_logo_%282018%29.svg/800px-NTV7_logo_%282018%29.svg.png" group-title="MY",NTV 7
-https://6d539d43e8634e6eb047c54aa848a6a1.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/yLtvobFq_/97545756-1f23-4fa5-bdc4-ce796dde1fb4/3.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="Religious",Al Quran Al Kareem TV
-https://cdn13jtedge.indihometv.com/joss/130/alquran/chunklist_w1654442010_b494100_sleng.m3u8?enc=_1xOosfkwzLiWkRLoerDtg&uid=&exp=1698886646
+
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religious",Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
