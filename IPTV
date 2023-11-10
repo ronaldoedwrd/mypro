@@ -85,3 +85,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://edge.taghtia.com/sa/7.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religious",Al Sunnah Al Nabawiyah TV
 https://edge.taghtia.com/sa/6.m3u8
+
+#EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BN", trial
+https://live.tv247us.com/tv247/nbc.m3u8
