@@ -8,6 +8,8 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="ID",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.transtv.co.id%2Flive%2Fstreaming-tv%2Frcti&psig=AOvVaw3F4DIFnj4HUMdIiH9b8y1-&ust=1706015300570000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICshbuI8YMDFQAAAAAdAAAAABAD" group-title="ID",RCTI
+https://midcache2.rctiplus.id/live/shopplus_240p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="ID",SCTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/800px-Indosiar_2015.svg.png" group-title="ID",Indosiar
