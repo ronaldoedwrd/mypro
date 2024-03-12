@@ -9,7 +9,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="ID",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dd/RCTI_logo_2015.svg" group-title="ID",RCTI
-
+http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="ID",SCTV
 https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/800px-Indosiar_2015.svg.png" group-title="ID",Indosiar
@@ -21,24 +21,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" group-title="ID",TV One
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Antv_logo.svg" group-title="ID",ANTV
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1920px-NET._sky_blue.svg.png" group-title="ID",NET TV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="ID",RTV
 https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 #EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="ID",SEA Today
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
+https://cdn10jtedge.indihometv.com/joss/133/seatodayweb/playlist.m3u8?enc=MDUflQxd8jD5qyNjT690Ag&exp=1710240455&encp=7N3543lGT_h0XPAT9fS-rg&expp=1710240455
 #EXTINF:-1 TVG-LOGO="https://d22gwcrfo2de51.cloudfront.net/wp-content/uploads/2020/08/TVRI-logo-baru-1400x788.png" group-title="ID",TVRI
-
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 TVG-LOGO="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRUQ6tMeltQTM0OW3W7rkLIcTYcW6KTETSA&usqp=CAU" group-title="ID",TVRI World
-
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="SPORT",TVRI SPORT
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Eurosport_Logo_2015.svg" group-title="SPORT",Eurosport
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/SPOTV_logo.svg" group-title="SPORT",SPOTV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" group-title="SPORT",SPOTV2
@@ -47,6 +45,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/FS2_logo_2015.svg" group-title="SPORT",Fox Sport 2
 http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT",Astro Supersport
+https://kusnadipepenk.github.io/ntn/asp1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="SPORT",Golf Channel
 http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg" group-title="SPORT",MLB Network
@@ -62,7 +62,7 @@ http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Entertainment",MTV Live
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch242%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="Entertainment",tvN
-http://210.210.155.37/dr9445/h/h20/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch339%29/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaS0w0ZqhZyQypdlTjGavrEK7HySewapzGQYsiECnQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",tvN Movies
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png" group-title="Entertainment",KBS World
