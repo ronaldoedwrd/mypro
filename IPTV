@@ -48,19 +48,19 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch329%29/Strea
 #EXTINF:-1 tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png" group-title="SPORT",SPOTV2
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/2015_Fox_Sports_1_logo.svg" group-title="SPORT",Fox Sport 1
-http://livex.pop-app.live/s4n/poplive/ch339/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/FS2_logo_2015.svg" group-title="SPORT",Fox Sport 2
-http://livex.pop-app.live/s4n/poplive/ch326/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT",Astro Supersport
-https://kusnadipepenk.github.io/ntn/asp1.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="SPORT",Golf Channel
-http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg" group-title="SPORT",MLB Network
-http://livex.pop-app.live/s4n/poplive/ch336/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="SPORT",NBA TV
-http://livex.pop-app.live/s4n/poplive/ch310/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/NFL_Network_logo.svg" group-title="SPORT",NFL Network
-http://livex.pop-app.live/s4n/poplive/ch332/playlist.m3u8
+
 
 
 
