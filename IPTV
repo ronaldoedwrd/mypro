@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="ID",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+https://cdn10jtedge.indihometv.com/atm/hlsv3/transtv/playlist.m3u8?enc=1sD2RUOneirMmxpCK3xhog&exp=1710741353&encp=xVktsQHCmeVwAVIAcvjHkg&expp=1710751853
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="ID",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.1.1.1" group-title="ID",CNN Indonesia
