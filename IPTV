@@ -9,35 +9,35 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="ID",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dd/RCTI_logo_2015.svg" group-title="ID",RCTI
-http://tv.premiumplus.tv/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/GTV_%282017%29.svg" group-title="ID",GTV
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683121&extension=m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MNCTV_logo_2015.svg" group-title="ID",MNCTV
-https://aufannada.github.io/streaming/mnctv.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="ID",SCTV
 https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/800px-Indosiar_2015.svg.png" group-title="ID",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="ID",METRO TV
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="ID",KOMPAS TV
-https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Logo_nusantaratv.png" group-title="ID",NTV
 https://v5.siar.us:443/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" group-title="ID",TV One
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch398%29/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Antv_logo.svg" group-title="ID",ANTV
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1920px-NET._sky_blue.svg.png" group-title="ID",NET TV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="ID",RTV
-https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="ID",SEA Today
-https://cdn10jtedge.indihometv.com/joss/133/seatodayweb/playlist.m3u8?enc=5IBjztkodoFM3FVFSyBl6w&exp=1710667442&encp=uqFtdbrOnf7qOOMfj1QuzQ&expp=1710667442
+
 #EXTINF:-1 TVG-LOGO="https://d22gwcrfo2de51.cloudfront.net/wp-content/uploads/2020/08/TVRI-logo-baru-1400x788.png" group-title="ID",TVRI
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 #EXTINF:-1 TVG-LOGO="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRUQ6tMeltQTM0OW3W7rkLIcTYcW6KTETSA&usqp=CAU" group-title="ID",TVRI World
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
 
 
 
