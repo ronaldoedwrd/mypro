@@ -68,9 +68,9 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Entertainment",MTV Live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1920px-Logo_tvN.svg.png" group-title="Entertainment",tvN
-
+https://aufannada.github.io/streaming/tvn.m3u8.
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaS0w0ZqhZyQypdlTjGavrEK7HySewapzGQYsiECnQ=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",tvN Movies
-
+https://aufannada.github.io/streaming/tvnmovies.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1920px-KBS_World_%282009%29.svg.png" group-title="Entertainment",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Entertainment",Rock Entertaintment
@@ -82,7 +82,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" group-title="Entertainment",Thrill
-
+https://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",AMC+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Logo_Lifetime_2020.svg" group-title="Entertainment",Lifetime
@@ -94,7 +94,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="Entertainment",National Geographic
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Entertainment",Discovery Asia
-https://raw.githubusercontent.com/aufannada/streaming/main/discovery.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Entertainment",History 
 
 
@@ -136,6 +136,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 
 #EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="Religious",Al Quran Al Kareem TV
-
+https://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religious",Al Sunnah Al Nabawiyah TV
-
+https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
