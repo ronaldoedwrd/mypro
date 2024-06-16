@@ -15,17 +15,17 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/MNCTV_logo_2015.svg" group-title="ID",MNCTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1920px-SCTV_Logo.svg.png" group-title="ID",SCTV
-
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/800px-Indosiar_2015.svg.png" group-title="ID",Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/LogoMetroTVsince2010.svg/1920px-LogoMetroTVsince2010.svg.png" group-title="ID",METRO TV
-https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/MetroTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="ID",KOMPAS TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Logo_nusantaratv.png" group-title="ID",NTV
 https://v5.siar.us:443/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/TvOne_2023.svg" group-title="ID",TV One
-https://ythls.armelin.one/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
+https://github.com/AqFad2811/randomlivefromyt3/raw/main/tvOne.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Antv_logo.svg" group-title="ID",ANTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1920px-NET._sky_blue.svg.png" group-title="ID",NET TV
