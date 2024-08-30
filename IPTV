@@ -130,6 +130,8 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" group-title="MY",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+#EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png" group-title="MY", Berita RTM
+https://ythls.armelin.one/channel/UCjUxj4cyy_F0tVCT8WfmdZQ.m3u8
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1280px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="MY", TV1 
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
