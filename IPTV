@@ -153,6 +153,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 https://livetvde.net/npo1/index.m3u8?token=2470f98e7f835eccbcaa8bda3607c550a2bf0656-5ffaa20b861b28512e722f12e581dfa6-1729017684-1729006884
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg" group-title="Local", BBC One
 https://livetvde.net/bbcone/index.m3u8?token=04bfb246ef4a1f103ceee14b03e65126bf0b0508-d107fb78e104d786d2e59fa6d31d8242-1729019180-1729008380
+#EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg" group-title="Local", BBC Two
+https://livetvde.net/bbctwo/index.m3u8?token=58f13db06d7b59afd6f4aad69ab7c3155cb6d433-ed286b28f415497534affe052a41479e-1729020099-1729009299
 
 #EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="Religious",Al Quran Al Kareem TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
