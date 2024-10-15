@@ -14,6 +14,8 @@ https://aufannada.github.io/streaming/metrotv.m3u8
 https://aufannada.github.io/streaming/kompastv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/BTV_%28Indonesia%29_logo.svg" group-title="ID",BTv
 https://aufannada.github.io/streaming/btv.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ID",iNews
+https://aufannada.github.io/streaming/inews.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/dd/RCTI_logo_2015.svg" group-title="ID",RCTI
 https://aufannada.github.io/streaming/rcti.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/GTV_%282017%29.svg" group-title="ID",GTV
@@ -99,6 +101,8 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" group-title="Entertainment",National Geographic
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Entertainment",Discovery
+https://aufannada.github.io/streaming/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Entertainment",Discovery Asia
 https://aufannada.github.io/streaming/discoveryasia.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Entertainment",History 
