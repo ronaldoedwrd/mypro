@@ -149,7 +149,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="BN", RTB Sukmaindera
 
-
+#EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg" group-title="NL", NPO1
+https://livetvde.net/npo1/index.m3u8?token=2470f98e7f835eccbcaa8bda3607c550a2bf0656-5ffaa20b861b28512e722f12e581dfa6-1729017684-1729006884
 
 #EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="Religious",Al Quran Al Kareem TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
