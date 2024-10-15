@@ -151,7 +151,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg" group-title="Local", NPO1
 https://livetvde.net/npo1/index.m3u8?token=2470f98e7f835eccbcaa8bda3607c550a2bf0656-5ffaa20b861b28512e722f12e581dfa6-1729017684-1729006884
-#EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg" group-title="Local", BBC One
+#EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg" group-title="Local", BBC One
 https://livetvde.net/bbcone/index.m3u8?token=04bfb246ef4a1f103ceee14b03e65126bf0b0508-d107fb78e104d786d2e59fa6d31d8242-1729019180-1729008380
 
 #EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="Religious",Al Quran Al Kareem TV
