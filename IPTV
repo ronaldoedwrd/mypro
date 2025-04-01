@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="ID",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1734117774_b744100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_7_id.png" group-title="ID",TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+https://www.dailymotion.com/cdn/live/video/x8qckyq.m3u8?sec=A2JF1GLTxki7rHgzMhtK7Rl28K7m0xGkz1rh76kofGxwIzGjWpdO5wMUQaMQFh2-sOSAifjSxmx3ZoVdthdq_w&dmTs=737235&dmV1st=b7126d95-87cd-7313-d11e-0634d1d67686
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/1Mtx9mY.png?v=1.1.1.1" group-title="ID",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/CNBC_Indonesia.png" group-title="ID",CNBC Indonesia
