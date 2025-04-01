@@ -35,9 +35,9 @@ https://aufannada.github.io/streaming/tvone.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Antv_logo.svg" group-title="ID",ANTV
 https://aufannada.github.io/streaming/antv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/1920px-NET._sky_blue.svg.png" group-title="ID",NET TV
-https://aufannada.github.io/streaming/nettv.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="ID",RTV
-https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
+
 #EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="ID",SEA Today
 
 #EXTINF:-1 TVG-LOGO="https://d22gwcrfo2de51.cloudfront.net/wp-content/uploads/2020/08/TVRI-logo-baru-1400x788.png" group-title="ID",TVRI
@@ -60,15 +60,15 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT",Astro Supersport
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/NBC_Golf_flat_logo.png" group-title="SPORT",Golf Channel
-
+https://v1.thetvapp.to/hls/GolfChannel/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/MLBNetworkLogo.svg" group-title="SPORT",MLB Network
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29dbd3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0f1d3baf-2f1b-47d7-9966-3e92a98f1c8a
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d2/NBA_TV.svg" group-title="SPORT",NBA TV
-
+https://v1.thetvapp.to/hls/NBATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/NFL_Network_logo.svg" group-title="SPORT",NFL Network
-
-
-
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/W7wJ9CcfTsIlMC9GWk7qgom0JO6R4DoFnHN1DGKuI2OtLQ_3w5zYuscMngY0OZfXtfxn" group-title="SPORT",Redbull TV
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="Entertainment",MTV Live
@@ -104,7 +104,7 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Entertainment",Discovery
 https://aufannada.github.io/streaming/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Entertainment",Discovery Asia
-https://aufannada.github.io/streaming/discoveryasia.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Entertainment",History 
 
 
@@ -118,17 +118,17 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="International News",Al Jazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="International News",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1920px-CNN.svg.png" group-title="Local",CNN US
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg" group-title="International News",FOX News
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/New_Bloomberg_Logo.svg" group-title="International News",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="International News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="International News",RT
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+
 
 
 
@@ -150,15 +150,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Local", RTB Sukmaindera
 
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/NPO_1_logo_2014.svg" group-title="Local", NPO1
-https://livetvde.net/npo1/index.m3u8?token=2470f98e7f835eccbcaa8bda3607c550a2bf0656-5ffaa20b861b28512e722f12e581dfa6-1729017684-1729006884
+
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/BBC_One_logo_2021.svg" group-title="Local", BBC One
-https://livetvde.net/bbcone/index.m3u8?token=04bfb246ef4a1f103ceee14b03e65126bf0b0508-d107fb78e104d786d2e59fa6d31d8242-1729019180-1729008380
+
 #EXTINF:-1 tvg-id="", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/BBC_Two_logo_2021.svg" group-title="Local", BBC Two
-https://livetvde.net/bbctwo/index.m3u8?token=58f13db06d7b59afd6f4aad69ab7c3155cb6d433-ed286b28f415497534affe052a41479e-1729020099-1729009299
+
 
 #EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="Religious",Al Quran Al Kareem TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+https://aufannada.github.io/streaming/makkahtv.m3u8
 #EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png" group-title="Religious",Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://aufannada.github.io/streaming/madinahtv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Al_Saudiya_Logo.png/revision/latest?cb=20200330092958" group-title="Religious",Al Saudiya
-https://shls-masr2-ak.akamaized.net/out/v1/5ae66b453b62403199811ab78da9982a/index.m3u8
+
