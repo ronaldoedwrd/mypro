@@ -39,7 +39,7 @@ https://aufannada.github.io/streaming/antv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="ID",RTV
 
 #EXTINF:-1 TVG-LOGO="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="ID",SEA Today
-
+https://raw.githubusercontent.com/yunuspalma/tvku/refs/heads/main/Live/SeaToday.m3u8
 #EXTINF:-1 TVG-LOGO="https://d22gwcrfo2de51.cloudfront.net/wp-content/uploads/2020/08/TVRI-logo-baru-1400x788.png" group-title="ID",TVRI
 https://aufannada.github.io/streaming/tvri.m3u8
 #EXTINF:-1 TVG-LOGO="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDRUQ6tMeltQTM0OW3W7rkLIcTYcW6KTETSA&usqp=CAU" group-title="ID",TVRI World
