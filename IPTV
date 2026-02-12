@@ -1,4 +1,4 @@
-.#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/ChZx3vT/transtv-home-tv.png" group-title="ID",TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1734117774_b744100_sleng.m3u8
